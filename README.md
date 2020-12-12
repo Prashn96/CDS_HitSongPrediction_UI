@@ -6,6 +6,7 @@
 
 
 In your text editor:
+
 1. git clone https://github.com/Prashn96/CDS_HitSongPrediction_UI
 2. To access the main file containing everything:  cd CDS_HitSongPrediction_UI/
 3. To run the Neural network model(in order to save the model) :   python3 nn.py

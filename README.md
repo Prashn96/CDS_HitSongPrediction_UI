@@ -8,6 +8,7 @@ git clone https://github.com/Prashn96/CDS_HitSongPrediction_UI
 
 
 
+
 In your text editor:
 
 1. To access the main file containing everything:  cd CDS_HitSongPrediction_UI/
@@ -15,6 +16,7 @@ In your text editor:
 3. To run the UI (model loaded in this file) :  python3 finale.py
 
 -Once run, click on local host URL that shows up in the terminal to load the UI : ctrl/command c 127.0.0.1:5000
+
 
 
 

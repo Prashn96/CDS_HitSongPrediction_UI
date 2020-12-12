@@ -16,4 +16,5 @@ In your text editor:
 In the User Interface:
 
 1. Key in the desired track name and corresponding artist onto the text boxes, denoted by the placeholder.
+
 -The probability of it being a hit song would be displayed as you click the 'predict' button (about 2 seconds wait)
